@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|c:\\users\\micael sanchez\\source\\repos\\ejerciciolazyloadingdemo\\ejerciciolazyloadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|solutionrelative:ejerciciolazyloadingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|c:\\users\\micael sanchez\\source\\repos\\ejerciciolazyloadingdemo\\ejerciciolazyloadingdemo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|solutionrelative:ejerciciolazyloadingdemo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|c:\\users\\micael sanchez\\source\\repos\\ejerciciolazyloadingdemo\\ejerciciolazyloadingdemo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|solutionrelative:ejerciciolazyloadingdemo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|c:\\users\\micael sanchez\\source\\repos\\ejerciciolazyloadingdemo\\ejerciciolazyloadingdemo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D07E8FC-EBF8-48F7-82E7-653D429DB7EA}|EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo.csproj|solutionrelative:ejerciciolazyloadingdemo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EjercicioLazyLoadingDemo\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\AppDbContext.cs",
+              "RelativeToolTip": "EjercicioLazyLoadingDemo\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:37:24.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\Pedido.cs",
+              "RelativeDocumentMoniker": "EjercicioLazyLoadingDemo\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\Pedido.cs",
+              "RelativeToolTip": "EjercicioLazyLoadingDemo\\Pedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:26:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\Cliente.cs",
+              "RelativeDocumentMoniker": "EjercicioLazyLoadingDemo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\Cliente.cs",
+              "RelativeToolTip": "EjercicioLazyLoadingDemo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:24:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioLazyLoadingDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\EjercicioLazyLoadingDemo\\EjercicioLazyLoadingDemo\\Program.cs",
+              "RelativeToolTip": "EjercicioLazyLoadingDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:20:59.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
